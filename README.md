@@ -1,9 +1,5 @@
-# Web-Development
-My Web Development Journey (26th Feb, 2023).
-<p>This Repository contains all my learnings throught the course.</p>
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
